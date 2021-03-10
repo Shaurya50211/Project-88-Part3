@@ -1,0 +1,25 @@
+.body {
+    background-image: url("avenger_bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#myCanvas {
+    border-width: 10px;
+    border-style: groove;
+    background-color: white;
+}
+
+#headInfo {
+    width: 500px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    width: 450px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
